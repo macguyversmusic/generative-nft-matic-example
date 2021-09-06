@@ -7,6 +7,7 @@ what purpose? a first step in creating a launchpad to rapidly send any number of
 how???
 
 using hashlips regenerative art repository then uploading the generated images to the web 
+//TODO UPLOAD THE IMAGES TO IPFS AND NOT A SERVER
 then we deploy the contract and site
 
 after that we run the mint function.  now we have 100 unique NFTs
